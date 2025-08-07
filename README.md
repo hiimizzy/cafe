@@ -22,11 +22,3 @@ O administrador pode gerenciar produtos e acompanhar os pedidos recebidos.
 
 ---
 
-## 🛠 Tecnologias Utilizadas
-- **Frontend:** HTML5, TailwindCSS
-- **Backend:** PHP 
-- **Banco de Dados:** MySQL
-- **Servidor local:** XAMPP
-
----
-
